@@ -1,7 +1,6 @@
 # Practica01_Mi-Blog
 RESULTADO(S) OBTENIDO(S):
 Primero se crea el repositorio en github con el nombre “Practica-1-Mi-blog”. Una vez creado el repositorio asignamos las carpetas que vayamos a utilizar y empezamos creando el index.html para que esta sea una página principal con una breve explicación del contenido.
-
 Se debe empezar realizando la creación del repositorio con el nombre de  la práctica “Práctica”01-Mi-Blog”
 Con mailto se pueden ir agregando direcciones de correo electrónico, en este caso se usa el correo de la universidad
 <a href="mailto:ateneg1@est.ups.edu.ec">ateneg1@est.ups.edu.ec</a>
