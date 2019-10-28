@@ -10,7 +10,7 @@ Con lo aprendido en clases y con las sugerencias de guía de practica se comienz
 Realizamos la cabecera, con la imagen como se había solicitado en la guia practica
  
 <aside>
- <a href="index.html"><img src="../../Imagenes/bienvenidos1.png" alt="EESITEL" /></a>
+ <a href="index.html"><img src="Imagenes/bienvenidos1.png" alt="EESITEL" /></a>
   </aside>
 
 Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.
