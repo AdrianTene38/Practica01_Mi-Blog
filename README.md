@@ -1,25 +1,25 @@
 # Practica01_Mi-Blog
 RESULTADO(S) OBTENIDO(S):
-Primero se crea el repositorio en github con el nombre ìPractica-1-Mi-blogî. Una vez creado el repositorio asignamos las carpetas que vayamos a utilizar y empezamos creando el index.html para que esta sea una p·gina principal con una breve explicaciÛn del contenido.
-Se debe empezar realizando la creaciÛn del repositorio con el nombre de  la pr·ctica ìPr·cticaî01-Mi-Blogî
-Con mailto se pueden ir agregando direcciones de correo electrÛnico, en este caso se usa el correo de la universidad
+Primero se crea el repositorio en github con el nombre ‚ÄúPractica-1-Mi-blog‚Äù. Una vez creado el repositorio asignamos las carpetas que vayamos a utilizar y empezamos creando el index.html para que esta sea una p√°gina principal con una breve explicaci√≥n del contenido.
+Se debe empezar realizando la creaci√≥n del repositorio con el nombre de  la pr√°ctica ‚ÄúPr√°ctica‚Äù01-Mi-Blog‚Äù
+Con mailto se pueden ir agregando direcciones de correo electr√≥nico, en este caso se usa el correo de la universidad
 <a href="mailto:ateneg1@est.ups.edu.ec">ateneg1@est.ups.edu.ec</a>
-Para el numero telefÛnico se agrega ìtelî.
+Para el numero telef√≥nico se agrega ‚Äútel‚Äù.
 <a href="tel:+593990597643">(+593)  99 059 7643</a>
-Con lo aprendido en clases y con las sugerencias de guÌa de practica se comienza a realizar la misma.
-Realizamos la cabecera, con la imagen como se habÌa solicitado en la guia practica
+Con lo aprendido en clases y con las sugerencias de gu√≠a de practica se comienza a realizar la misma.
+Realizamos la cabecera, con la imagen como se hab√≠a solicitado en la guia practica
  
 <aside>
- <a href="index.html"><img src="../Practica01_Mi-Blog/Imagenes/bienvenidos1.png" alt="EESITEL" /></a>
+ <a href="index.html"><img src="../../Imagenes/bienvenidos1.png" alt="EESITEL" /></a>
   </aside>
 
-Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guÌa de la asignatura.
-En la p·gina index se tiene realizado correctamentelos puntos solicitados por el docente en el que se requiere el uso de al menos 5 etiquetas entre ellas est·n:
-La etiqueta <br /> permite un salto de lÌnea dentro de la p·gina.
+Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto gu√≠a de la asignatura.
+En la p√°gina index se tiene realizado correctamentelos puntos solicitados por el docente en el que se requiere el uso de al menos 5 etiquetas entre ellas est√°n:
+La etiqueta <br /> permite un salto de l√≠nea dentro de la p√°gina.
 <br>
 <b> </b>.
 <cite></cite> 
-<abbr title ìî> </abbr>
+<abbr title ‚Äú‚Äù> </abbr>
 Se utilizo de las siguientes herramientas paara lograr dar una mejor representacion del trabajo realizado.
 
  <style>
@@ -53,7 +53,7 @@ De la siguiente manera.
  
 Se puede observar que se coloco de manera exitosa el video en la pagina realizada.
 TABLA
-Se debe crear una tabla,para poder brindar de mejor manera una informaciÛn por lo que para poder realizarla se necesita del siguiente fragmento de etiquetas.
+Se debe crear una tabla,para poder brindar de mejor manera una informaci√≥n por lo que para poder realizarla se necesita del siguiente fragmento de etiquetas.
             
 
  
@@ -84,7 +84,7 @@ Se debe crear una tabla,para poder brindar de mejor manera una informaciÛn por l
                 <td>$100</td>
 
                 <tr>
-                    <td colspan="3">BENEFICIO DE LA DOM”TICA.</td>
+                    <td colspan="3">BENEFICIO DE LA DOM√ìTICA.</td>
                 </tr>
             </article>
         </table>
@@ -93,24 +93,24 @@ Se obtienen los siguientes resultados:
  
 
 Se ha cumplido el orden de realizar una tabla informativa.
-Se pide que una de las p·ginas tenga al menos dos secciones () con tres artÌculos () cada secciÛn. Luego, cada secciÛn debe tener un encabezado (), en donde, se ubicaran enlaces que permitan navegar entre los artÌculos usando idís.
+Se pide que una de las p√°ginas tenga al menos dos secciones () con tres art√≠culos () cada secci√≥n. Luego, cada secci√≥n debe tener un encabezado (), en donde, se ubicaran enlaces que permitan navegar entre los art√≠culos usando id‚Äôs.
  
  
 
 Con el siguientes fragmentos de etiquetas se va realizando acorde se pide en el enunciado
 
-Manejar listas ordenadas o desordenadas con al menos cinco Ìtems.
+Manejar listas ordenadas o desordenadas con al menos cinco √≠tems.
 Para cumplir con este punto se opto por realizar las siguientes fragmentos de etiquetas por el que se utilizo lo siguiente.
  
 
 
-validaciÛn de cada p·gina HTML
+validaci√≥n de cada p√°gina HTML
 La herramienta w3c validator nos ayuda a tener un buen desarrollo de la pagina por lo que es importante utilizarlo de buena manera y se optuvo los siguientes resultadps
 
 Index.html
  
 
-DomÛtica.htm
+Dom√≥tica.htm
  
 
 Productos.html
@@ -132,10 +132,10 @@ Se tiene realizada la siguiente etiqueta.
           99 059 7643</a>
    </footer>
 
-En el informe se debe incluir la informaciÛn de GitHub (usuario y URL del repositorio de la pr·ctica)
+En el informe se debe incluir la informaci√≥n de GitHub (usuario y URL del repositorio de la pr√°ctica)
 Usuario: AdrianTene38
 https://github.com/AdrianTene38/Practica01_Mi-Blog
-En el informe se debe incluir la informaciÛn de GitHub (usuario y URL del repositorio del Tutorial 01 - Curbside Thai)
+En el informe se debe incluir la informaci√≥n de GitHub (usuario y URL del repositorio del Tutorial 01 - Curbside Thai)
 Usuario: AdrianTene38
 https://github.com/AdrianTene38/Tutorial-01---Curbside-Thai
 
